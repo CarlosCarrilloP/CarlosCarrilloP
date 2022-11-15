@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @CarlosCarrilloP
-- 👀 I’m interested in frontend at the moment
+- 👀 I’m interested in learn web development at the moment
 - 🌱 I’m currently learning HTML5 CSS3 and JavaScript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
