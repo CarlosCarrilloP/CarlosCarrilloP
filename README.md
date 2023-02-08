@@ -20,3 +20,8 @@ I will start my first project, im very excited to show you! ☺️
 </div>
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=CarlosCarrilloP&theme=dark&locale=es&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/insolitum/count.svg" />
+</p>
