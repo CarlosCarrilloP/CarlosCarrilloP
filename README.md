@@ -1,4 +1,4 @@
-<h1><img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+CARLOS+CARRILLO PEREZ....;Nice+to+meet+you!&size=30" size="30"></h1>
+<h1 align="center"><b>Hey there! I'm CARLOS CARRILLO PEREZ </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 
 
